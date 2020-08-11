@@ -85,11 +85,11 @@ ffmpeg -re -i sugar.mp4 -c copy -f flv rtmp://localhost:1935/live/sugar
 ```
 
 ## Server and Client connection Picture
-1. Rtmp Server video by pushing Rtmp stream sends  
-![Rtmp Server](http://m.qpic.cn/psc?/V53fRgvG3eglq316xcKz3bnj5O11sfmA/45NBuzDIW489QBoVep5mccGmJRUXXTH4lFI.Aq9KseXvwngBp1WQzi3Lp5a4RpzCKrhF3TltuOSUlUA3CBm4g3bfZcFhGYoiJMbqCVxWYGo!/b&bo=QAaEAwAAAAADN9M!&rf=viewer_4&t=5 "Ubutnu Rtmp Server")
+1. Client likes VLC that gets video by recieving Rtmp video  
+![VLC Client](https://github.com/ShiKe-And-His-Friends/RtmpProtcolNiginxServer/blob/master/demo-pic/client.png)
 
-2. Client likes VLC that gets video by recieving Rtmp video  
-![VLC Client](http://m.qpic.cn/psc?/V53fRgvG3eglq316xcKz3bnj5O11sfmA/45NBuzDIW489QBoVep5mcXzo2vjtZx5CZPtocCwR2KL9vpaspGuJlarLXEFtT82WSM**iUs2S67mLLPo*UTVKab2w3SkEToOxrR1iEfyHUY!/b&bo=VgUAAwAAAAADVyI!&rf=viewer_4&t=5)
+2. Rtmp Server video by pushing Rtmp stream sends  
+![Rtmp Server](https://github.com/ShiKe-And-His-Friends/RtmpProtcolNiginxServer/blob/master/demo-pic/server.png)
 
 ## Links  
 [Ubuntu Nginx+Rtmp服务器搭建 （图文演示）](https://blog.csdn.net/avsys_z/article/details/79569279)  

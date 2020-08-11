@@ -86,10 +86,10 @@ ffmpeg -re -i sugar.mp4 -c copy -f flv rtmp://localhost:1935/live/sugar
 
 ## Server and Client connection Picture
 1. Client likes VLC that gets video by recieving Rtmp video  
-![VLC Client](https://github.com/ShiKe-And-His-Friends/RtmpProtcolNiginxServer/blob/master/demo-pic/client.png?raw=true)
+![VLC Client](https://github.com/ShiKe-And-His-Friends/RtmpProtcolNiginxServer/blob/master/demo-pic/client.jpg?raw=true)
 
 2. Rtmp Server video by pushing Rtmp stream sends  
-![Rtmp Server](https://github.com/ShiKe-And-His-Friends/RtmpProtcolNiginxServer/blob/master/demo-pic/server.png?raw=true)
+![Rtmp Server](https://github.com/ShiKe-And-His-Friends/RtmpProtcolNiginxServer/blob/master/demo-pic/server.jpg?raw=true)
 
 ## Links  
 [Ubuntu Nginx+Rtmp服务器搭建 （图文演示）](https://blog.csdn.net/avsys_z/article/details/79569279)  
